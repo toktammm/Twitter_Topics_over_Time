@@ -1,3 +1,5 @@
+'''This code is a modifed version of TOT that can be found here: https://github.com/ahmaurya/topics_over_time'''
+
 import numpy as np
 import pickle
 import time
