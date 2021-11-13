@@ -20,7 +20,9 @@ The model is a modified version of TOT. If you are interested, the original mode
 For our paper, the dataset was provided to us as part of the Computational Simulation of Online Social Behavior ([SocialSim](https://www.darpa.mil/program/computational-simulation-of-online-social-behavior)) program initiated by the Defense Advanced Research Projects Agency (DARPA). But, similar dataset can be downloaded from the tweeter API with keyword and/or hashtag query for a specific domain. Our dataset contains tweets on the domain of White Helmets of Syria over a period of 13 month from April 2018 to April 2019. We analyzed more than 1,052,000 tweets. 
 
 ### Model
-<img src="figs/graphical_model.png" width="400">
+<p align="center">
+  <img src="figs/graphical_model.png" width="400">
+</p>
 
 ### Results
 The distribution of identified topics is depicted below. 
