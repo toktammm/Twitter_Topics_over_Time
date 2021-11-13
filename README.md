@@ -25,4 +25,4 @@ For our paper, the dataset was provided to us as part of the Computational Simul
 ### Results
 The distribution of identified topics is depicted below. 
 
-<img src="figs/topics_3d_plot.png.png" width="500"> | <img src="figs/topics_plot.png.png" width="500">
+<img src="figs/topics_3d_plot.png.png" width="500">
